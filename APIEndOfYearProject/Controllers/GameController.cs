@@ -14,11 +14,7 @@ namespace APIEndOfYearProject.Controllers
         
 
 
-        [HttpGet]
-        public List<Hero> Get()
-        {
-            return this.heroes;
-        }
+        
         
     }
 }

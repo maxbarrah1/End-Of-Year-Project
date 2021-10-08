@@ -13,11 +13,7 @@ namespace APIEndOfYearProject.Controllers
     {
 
 
-        [HttpGet]
-        public 
-        {
-            
-        }
+       
         
     }
 }

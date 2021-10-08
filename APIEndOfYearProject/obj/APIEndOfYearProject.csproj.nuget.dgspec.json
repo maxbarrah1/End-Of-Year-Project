@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Max\\OneDrive\\Documents\\Uni Subjects\\End Of Year Project\\Project Code\\End-Of-Year-Project\\APIEndOfYearProject\\APIEndOfYearProject.csproj": {}
+    "C:\\Users\\maxba\\OneDrive\\Documents\\Uni Subjects\\End Of Year Project\\Project Code\\End-Of-Year-Project\\APIEndOfYearProject\\APIEndOfYearProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Max\\OneDrive\\Documents\\Uni Subjects\\End Of Year Project\\Project Code\\End-Of-Year-Project\\APIEndOfYearProject\\APIEndOfYearProject.csproj": {
+    "C:\\Users\\maxba\\OneDrive\\Documents\\Uni Subjects\\End Of Year Project\\Project Code\\End-Of-Year-Project\\APIEndOfYearProject\\APIEndOfYearProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Max\\OneDrive\\Documents\\Uni Subjects\\End Of Year Project\\Project Code\\End-Of-Year-Project\\APIEndOfYearProject\\APIEndOfYearProject.csproj",
+        "projectUniqueName": "C:\\Users\\maxba\\OneDrive\\Documents\\Uni Subjects\\End Of Year Project\\Project Code\\End-Of-Year-Project\\APIEndOfYearProject\\APIEndOfYearProject.csproj",
         "projectName": "APIEndOfYearProject",
-        "projectPath": "C:\\Users\\Max\\OneDrive\\Documents\\Uni Subjects\\End Of Year Project\\Project Code\\End-Of-Year-Project\\APIEndOfYearProject\\APIEndOfYearProject.csproj",
-        "packagesPath": "C:\\Users\\Max\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Max\\OneDrive\\Documents\\Uni Subjects\\End Of Year Project\\Project Code\\End-Of-Year-Project\\APIEndOfYearProject\\obj\\",
+        "projectPath": "C:\\Users\\maxba\\OneDrive\\Documents\\Uni Subjects\\End Of Year Project\\Project Code\\End-Of-Year-Project\\APIEndOfYearProject\\APIEndOfYearProject.csproj",
+        "packagesPath": "C:\\Users\\maxba\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\maxba\\OneDrive\\Documents\\Uni Subjects\\End Of Year Project\\Project Code\\End-Of-Year-Project\\APIEndOfYearProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Max\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\maxba\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -65,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

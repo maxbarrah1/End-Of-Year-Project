@@ -1,0 +1,14 @@
+C:\Users\maxba\OneDrive\Documents\Uni Subjects\End Of Year Project\Project Code\End-Of-Year-Project\APIEndOfYearProject\obj\Debug\net5.0\APIEndOfYearProject.csproj.AssemblyReference.cache
+C:\Users\maxba\OneDrive\Documents\Uni Subjects\End Of Year Project\Project Code\End-Of-Year-Project\APIEndOfYearProject\obj\Debug\net5.0\APIEndOfYearProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxba\OneDrive\Documents\Uni Subjects\End Of Year Project\Project Code\End-Of-Year-Project\APIEndOfYearProject\obj\Debug\net5.0\APIEndOfYearProject.AssemblyInfoInputs.cache
+C:\Users\maxba\OneDrive\Documents\Uni Subjects\End Of Year Project\Project Code\End-Of-Year-Project\APIEndOfYearProject\obj\Debug\net5.0\APIEndOfYearProject.AssemblyInfo.cs
+C:\Users\maxba\OneDrive\Documents\Uni Subjects\End Of Year Project\Project Code\End-Of-Year-Project\APIEndOfYearProject\obj\Debug\net5.0\APIEndOfYearProject.csproj.CoreCompileInputs.cache
+C:\Users\maxba\OneDrive\Documents\Uni Subjects\End Of Year Project\Project Code\End-Of-Year-Project\APIEndOfYearProject\obj\Debug\net5.0\APIEndOfYearProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\maxba\OneDrive\Documents\Uni Subjects\End Of Year Project\Project Code\End-Of-Year-Project\APIEndOfYearProject\obj\Debug\net5.0\APIEndOfYearProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Max\OneDrive\Documents\Uni Subjects\End Of Year Project\Project Code\End-Of-Year-Project\APIEndOfYearProject\obj\Debug\net5.0\APIEndOfYearProject.csprojAssemblyReference.cache
+C:\Users\Max\OneDrive\Documents\Uni Subjects\End Of Year Project\Project Code\End-Of-Year-Project\APIEndOfYearProject\obj\Debug\net5.0\APIEndOfYearProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max\OneDrive\Documents\Uni Subjects\End Of Year Project\Project Code\End-Of-Year-Project\APIEndOfYearProject\obj\Debug\net5.0\APIEndOfYearProject.AssemblyInfoInputs.cache
+C:\Users\Max\OneDrive\Documents\Uni Subjects\End Of Year Project\Project Code\End-Of-Year-Project\APIEndOfYearProject\obj\Debug\net5.0\APIEndOfYearProject.AssemblyInfo.cs
+C:\Users\Max\OneDrive\Documents\Uni Subjects\End Of Year Project\Project Code\End-Of-Year-Project\APIEndOfYearProject\obj\Debug\net5.0\APIEndOfYearProject.csproj.CoreCompileInputs.cache
+C:\Users\Max\OneDrive\Documents\Uni Subjects\End Of Year Project\Project Code\End-Of-Year-Project\APIEndOfYearProject\obj\Debug\net5.0\APIEndOfYearProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Max\OneDrive\Documents\Uni Subjects\End Of Year Project\Project Code\End-Of-Year-Project\APIEndOfYearProject\obj\Debug\net5.0\APIEndOfYearProject.MvcApplicationPartsAssemblyInfo.cache
